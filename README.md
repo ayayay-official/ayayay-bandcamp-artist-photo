@@ -1,1 +1,1 @@
-# ayayay-bandcamp-artist-photo
+# ayayay-bandcamp-artist-picture
